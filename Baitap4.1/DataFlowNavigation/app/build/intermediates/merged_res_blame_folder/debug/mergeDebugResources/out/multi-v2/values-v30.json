@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.uth.homework.dataflownavigation.app-mergeDebugResources-40:/values-v30/values-v30.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\VuTriDung\\.gradle\\caches\\8.13\\transforms\\77032d2537bbdb9d911cd9f7e12f115d\\transformed\\material3-release\\res\\values-v30\\values-v30.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "72",
+                        "endOffsets": "123"
+                    }
+                }
+            ]
+        }
+    ]
+}
